@@ -1,0 +1,122 @@
+    [
+      {
+        "id": 1,
+        "category": "Politics",
+        "title": "Egypt Hosts Regional Summit",
+        "description": "Egypt is hosting a summit to discuss regional peace and stability with neighboring countries."
+      },
+      {
+        "id": 2,
+        "category": "Economy",
+        "title": "New Investments in Renewable Energy",
+        "description": "Egypt attracts $2 billion in foreign investments to expand renewable energy projects."
+      },
+      {
+        "id": 3,
+        "category": "Sports",
+        "title": "Egyptian Football Team Wins Championship",
+        "description": "The Egyptian national football team clinches the regional championship in a thrilling final."
+      },
+      {
+        "id": 4,
+        "category": "Culture",
+        "title": "Cairo Film Festival Highlights Local Talent",
+        "description": "The annual Cairo International Film Festival celebrates emerging filmmakers from across Egypt."
+      },
+      {
+        "id": 5,
+        "category": "Technology",
+        "title": "New Tech Park Opens in Alexandria",
+        "description": "Alexandria unveils a state-of-the-art tech park to foster innovation and startups."
+      },
+      {
+        "id": 6,
+        "category": "Health",
+        "title": "Health Ministry Launches Vaccination Drive",
+        "description": "A nationwide campaign aims to vaccinate millions against seasonal flu."
+      },
+      {
+        "id": 7,
+        "category": "Environment",
+        "title": "Efforts to Preserve the Nile Ecosystem",
+        "description": "Egypt announces new measures to protect the Nile's biodiversity and prevent pollution."
+      },
+      {
+        "id": 8,
+        "category": "Education",
+        "title": "New Curriculum Focuses on AI and Robotics",
+        "description": "Egypt introduces AI and robotics in school curriculums to prepare students for the future."
+      },
+      {
+        "id": 9,
+        "category": "Tourism",
+        "title": "Record Number of Tourists Visit Egypt",
+        "description": "Tourism in Egypt reaches an all-time high, with millions visiting iconic landmarks."
+      },
+      {
+        "id": 10,
+        "category": "Politics",
+        "title": "Parliament Approves New Labor Laws",
+        "description": "Egypt's parliament passes new laws to improve worker rights and benefits."
+      },
+      {
+        "id": 11,
+        "category": "Sports",
+        "title": "Egyptian Swimmer Breaks World Record",
+        "description": "An Egyptian swimmer sets a new world record in the 100m freestyle event."
+      },
+      {
+        "id": 12,
+        "category": "Economy",
+        "title": "Inflation Rates Show Signs of Improvement",
+        "description": "Recent government measures lead to a drop in inflation rates across Egypt."
+      },
+      {
+        "id": 13,
+        "category": "Culture",
+        "title": "Ancient Artifacts Discovered in Luxor",
+        "description": "Archaeologists uncover a new collection of ancient artifacts in Luxor."
+      },
+      {
+        "id": 14,
+        "category": "Technology",
+        "title": "Egypt Develops First Locally Made Satellite",
+        "description": "The locally designed satellite aims to enhance communication and research capabilities."
+      },
+      {
+        "id": 15,
+        "category": "Health",
+        "title": "Doctors Promote Healthy Eating Habits",
+        "description": "Egyptian doctors launch a campaign to encourage healthy dietary practices."
+      },
+      {
+        "id": 16,
+        "category": "Environment",
+        "title": "Reforestation Projects Begin in Desert Areas",
+        "description": "A large-scale reforestation project aims to transform desert regions into green spaces."
+      },
+      {
+        "id": 17,
+        "category": "Education",
+        "title": "Scholarships for Top Egyptian Students",
+        "description": "The government offers scholarships for top-performing students to study abroad."
+      },
+      {
+        "id": 18,
+        "category": "Tourism",
+        "title": "Cruise Tours Return to the Red Sea",
+        "description": "Luxury cruises are once again available in the Red Sea, attracting global tourists."
+      },
+      {
+        "id": 19,
+        "category": "Politics",
+        "title": "New Policies Aim to Boost Local Industries",
+        "description": "The government unveils policies to promote local manufacturing and reduce imports."
+      },
+      {
+        "id": 20,
+        "category": "Sports",
+        "title": "Egypt Prepares for the Olympics",
+        "description": "The national sports teams are training rigorously for the upcoming Olympic Games."
+      }
+    ]
